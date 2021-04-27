@@ -1,7 +1,7 @@
 const USER_BASE =
-  "https://peterrambeckandersen.com/tomcat/insession-starter/api"
+  "https://osvaldo.dk/tomcat/Running-react/api"
 const INFO_BASE =
-  "https://peterrambeckandersen.com/tomcat/insession-starter/api/info"
+  "https://osvaldo.dk/tomcat/Running-react/api/info"
 
 const USER = {
   LOGIN: `${USER_BASE}/login`,
